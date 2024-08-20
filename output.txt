@@ -1,0 +1,13 @@
+PS D:\Neophyte.ai\YOLO> pytest .\app\tests\
+============================================================================= test session starts ==============================================================================
+platform win32 -- Python 3.10.4, pytest-8.2.2, pluggy-1.5.0
+rootdir: D:\Neophyte.ai\YOLO\app
+configfile: pytest.ini
+collected 6 items
+
+app\tests\test_main.py ..                                                                                                                                                 [ 33%] 
+app\tests\test_makeInf.py .                                                                                                                                               [ 50%] 
+app\tests\test_parseImage.py ..                                                                                                                                           [ 83%] 
+app\tests\test_storeInDB.py .                                                                                                                                             [100%] 
+
+============================================================================== 6 passed in 43.61s ============================================================================== 

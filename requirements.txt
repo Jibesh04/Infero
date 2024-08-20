@@ -1,0 +1,7 @@
+boto3
+Pillow
+pymongo
+gridfs
+pytest
+moto
+ultralytics
